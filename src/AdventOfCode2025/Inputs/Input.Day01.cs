@@ -1,6 +1,6 @@
 namespace AdventOfCode2025.Inputs;
 
-public partial class Input
+public static partial class Input
 {
     public const string Day01 =
 """
